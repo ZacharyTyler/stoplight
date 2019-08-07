@@ -39,11 +39,11 @@ body {
 
 }
 .red:hover {
-  box-shadow: 0px 0px 100px 100px green;
+  box-shadow: 0px 0px 100px 100px red;
 }
 .yellow:hover {
-  box-shadow: 0px 0px 200px 200px red;
+  box-shadow: 0px 0px 200px 200px yellow;
 }
 .green:hover {
-  box-shadow: 0px 0px 300px 300px yellow;
+  box-shadow: 0px 0px 300px 300px green;
 }
